@@ -1,0 +1,24 @@
+{
+  "APIs": {
+    "zenz": "https://api.zahwazein.xyz", 
+    "apikey": "dryanbot"
+  },
+  "options": {
+    "autoRead": true,
+    "self": false,
+    "autobio": false,
+    "limitCount": 20,
+    "limitGame": 20
+  },
+  "exif": {
+    "packname": "4Keys.ID",
+    "author": "@4ksanzz"
+  },
+  "owner": [
+    "6287846332111",
+    "6281236167286",
+    "6287846332111"
+  ],
+  "timezone": "Asia/Jakarta",
+  "footer": "Powered by © 4Keys.ID"
+}
